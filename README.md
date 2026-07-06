@@ -12,7 +12,7 @@ Implementasi mengacu pada materi yang diberikan dosen serta artikel GeeksforGeek
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | No | Nama | NIM |
 |----|------|-----|
